@@ -1,6 +1,6 @@
 -- **********************************************************************************************************************************
 -- This script creates my Electronic Medical Record System for ER admissions through ER discharge for hospitals particularly in USA
--- Created by HEMANTH CHOWDARY GADDIPATI for Applied DataBases(6120) project 1 
+-- Created by HEMANTH CHOWDARY GADDIPATI for Applied DataBases(6120) project 2
 -- **********************************************************************************************************************************
 
 -- createing the database Electronic Medical Record System for Emergency Room
